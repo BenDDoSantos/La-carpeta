@@ -1,0 +1,52 @@
+h1 {
+    color: #000000
+}
+
+h2 {
+    color: #0400f3e0
+}
+
+h3 {
+    color: #b41b1b
+}
+
+h4 {
+    color: #b41b1b
+}
+
+h5 {
+    color: #b41b1b
+}
+
+h6 {
+    color: #b41b1b
+}
+
+p {
+    color: #000000;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    /*text-align: right;*/
+}
+
+li {
+    color: #000000;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /*text-align: right;*/
+}
+
+span {
+    color: yellow;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(84, 173, 165);
+}
+
+img {
+    width: 450px;
+    height: 300px;
+}
