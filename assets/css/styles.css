@@ -1,0 +1,56 @@
+h1 {
+    color: #b41b1b
+}
+
+h2 {
+    color: #0400f3e0
+}
+
+h3 {
+    color: #b41b1b
+}
+
+h4 {
+    color: #b41b1b
+}
+
+h5 {
+    color: #b41b1b
+}
+
+h6 {
+    color: #b41b1b
+}
+
+p {
+    color: #000000;
+    text-align: justify;
+    /*text-align: right;*/
+}
+
+span {
+    color: yellow;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgba(48, 255, 127, 0.548);
+}
+
+img {
+    width: 450px;
+    height: 300px;
+}
+
+table, th, td {
+    border: 1px solid rgb(19, 255, 70);
+    border-collapse: collapse;
+  }
+
+  th {
+    text-align: left
+}
+  th, td {
+    background-color: hsl(189, 100%, 77%);
+}
